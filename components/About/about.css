@@ -1,0 +1,8 @@
+.about-bg{
+    background: linear-gradient(to bottom right, #ffffff, #e2f3f7, #ffffff, #e2f3f7, #ffffff, #e2f3f7);
+    background-size: 250%;
+    -webkit-animation: background-colors 20s infinite linear forwards;
+     animation: background-colors 20s infinite linear forwards;
+     background-position: center;
+     background-repeat: no-repeat;
+}
